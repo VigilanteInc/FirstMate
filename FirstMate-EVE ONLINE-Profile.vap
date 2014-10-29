@@ -1,10 +1,235 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Profile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Id>02957294-ad90-4dab-836b-4ab466f89eb6</Id>
+  <Id>2099826f-3312-4b64-a112-8853285a6517</Id>
   <Name>FirstMate-EVE-PRIVATE</Name>
   <Commands>
     <Command>
-      <Id>c08cab2c-da7a-4b89-b87e-d1c3a34104e0</Id>
+      <Id>c5a9888c-2654-495f-a9c6-a65ec7c90f3a</Id>
+      <CommandString>awesome</CommandString>
+      <ActionSequence>
+        <CommandAction>
+          <PairingSet>false</PairingSet>
+          <Ordinal>0</Ordinal>
+          <ConditionMet xsi:nil="true" />
+          <IndentLevel>0</IndentLevel>
+          <Id>712eddc3-53eb-47ce-b63b-638e4c1ed12e</Id>
+          <ActionType>Say</ActionType>
+          <Duration>0</Duration>
+          <Delay>0</Delay>
+          <KeyCodes />
+          <Context>I would have to say that I am in full agreement with you.</Context>
+          <X>65</X>
+          <Y>0</Y>
+          <InputMode>0</InputMode>
+          <ConditionPairing>0</ConditionPairing>
+          <ConditionGroup>0</ConditionGroup>
+          <ConditionStartOperator>0</ConditionStartOperator>
+          <ConditionStartValue>0</ConditionStartValue>
+          <ConditionStartValueType>0</ConditionStartValueType>
+          <IsSuffixAction>false</IsSuffixAction>
+        </CommandAction>
+      </ActionSequence>
+      <Async>true</Async>
+      <Enabled>true</Enabled>
+      <UseShortcut>false</UseShortcut>
+      <keyValue>0</keyValue>
+      <keyShift>0</keyShift>
+      <keyAlt>0</keyAlt>
+      <keyCtrl>0</keyCtrl>
+      <keyWin>0</keyWin>
+      <keyPassthru>true</keyPassthru>
+      <UseSpokenPhrase>true</UseSpokenPhrase>
+      <onlyKeyUp>false</onlyKeyUp>
+      <RepeatNumber>2</RepeatNumber>
+      <RepeatType>0</RepeatType>
+      <CommandType>0</CommandType>
+      <SourceProfile>00000000-0000-0000-0000-000000000000</SourceProfile>
+      <Referrer xsi:nil="true" />
+      <Confidence>0</Confidence>
+      <PrefixActionCount>0</PrefixActionCount>
+    </Command>
+    <Command>
+      <Id>0139b351-c2d0-4500-96dd-693ec3b07ef7</Id>
+      <CommandString>cool; neat; oh cool; sweet; kick ass; oh wow</CommandString>
+      <ActionSequence>
+        <CommandAction>
+          <PairingSet>false</PairingSet>
+          <Ordinal>0</Ordinal>
+          <ConditionMet xsi:nil="true" />
+          <IndentLevel>0</IndentLevel>
+          <Id>fafc6546-36d4-4e80-b8c5-7e08aba46e83</Id>
+          <ActionType>Say</ActionType>
+          <Duration>0</Duration>
+          <Delay>0</Delay>
+          <KeyCodes />
+          <Context>indeed.</Context>
+          <X>65</X>
+          <Y>0</Y>
+          <InputMode>0</InputMode>
+          <ConditionPairing>0</ConditionPairing>
+          <ConditionGroup>0</ConditionGroup>
+          <ConditionStartOperator>0</ConditionStartOperator>
+          <ConditionStartValue>0</ConditionStartValue>
+          <ConditionStartValueType>0</ConditionStartValueType>
+          <IsSuffixAction>false</IsSuffixAction>
+        </CommandAction>
+      </ActionSequence>
+      <Async>true</Async>
+      <Enabled>true</Enabled>
+      <UseShortcut>false</UseShortcut>
+      <keyValue>0</keyValue>
+      <keyShift>0</keyShift>
+      <keyAlt>0</keyAlt>
+      <keyCtrl>0</keyCtrl>
+      <keyWin>0</keyWin>
+      <keyPassthru>true</keyPassthru>
+      <UseSpokenPhrase>true</UseSpokenPhrase>
+      <onlyKeyUp>false</onlyKeyUp>
+      <RepeatNumber>2</RepeatNumber>
+      <RepeatType>0</RepeatType>
+      <CommandType>0</CommandType>
+      <SourceProfile>00000000-0000-0000-0000-000000000000</SourceProfile>
+      <Referrer xsi:nil="true" />
+      <Confidence>0</Confidence>
+      <PrefixActionCount>0</PrefixActionCount>
+    </Command>
+    <Command>
+      <Id>60ddcf75-0830-4a24-b21c-549b1061f73f</Id>
+      <CommandString>fuck; shit</CommandString>
+      <ActionSequence>
+        <CommandAction>
+          <PairingSet>false</PairingSet>
+          <Ordinal>0</Ordinal>
+          <ConditionMet xsi:nil="true" />
+          <IndentLevel>0</IndentLevel>
+          <Id>cb512d22-cb0d-43c8-a02f-dbf21a896cc1</Id>
+          <ActionType>Say</ActionType>
+          <Duration>0</Duration>
+          <Delay>0</Delay>
+          <KeyCodes />
+          <Context>easy with the language pal</Context>
+          <X>65</X>
+          <Y>0</Y>
+          <InputMode>0</InputMode>
+          <ConditionPairing>0</ConditionPairing>
+          <ConditionGroup>0</ConditionGroup>
+          <ConditionStartOperator>0</ConditionStartOperator>
+          <ConditionStartValue>0</ConditionStartValue>
+          <ConditionStartValueType>0</ConditionStartValueType>
+          <IsSuffixAction>false</IsSuffixAction>
+        </CommandAction>
+      </ActionSequence>
+      <Async>true</Async>
+      <Enabled>true</Enabled>
+      <UseShortcut>false</UseShortcut>
+      <keyValue>0</keyValue>
+      <keyShift>0</keyShift>
+      <keyAlt>0</keyAlt>
+      <keyCtrl>0</keyCtrl>
+      <keyWin>0</keyWin>
+      <keyPassthru>true</keyPassthru>
+      <UseSpokenPhrase>true</UseSpokenPhrase>
+      <onlyKeyUp>false</onlyKeyUp>
+      <RepeatNumber>2</RepeatNumber>
+      <RepeatType>0</RepeatType>
+      <CommandType>0</CommandType>
+      <SourceProfile>00000000-0000-0000-0000-000000000000</SourceProfile>
+      <Referrer xsi:nil="true" />
+      <Confidence>0</Confidence>
+      <PrefixActionCount>0</PrefixActionCount>
+    </Command>
+    <Command>
+      <Id>a1291f99-e1b3-41c0-8367-9fe2e73200d5</Id>
+      <CommandString>i love this thing; i love this</CommandString>
+      <ActionSequence>
+        <CommandAction>
+          <PairingSet>false</PairingSet>
+          <Ordinal>0</Ordinal>
+          <ConditionMet xsi:nil="true" />
+          <IndentLevel>0</IndentLevel>
+          <Id>e617bf99-930d-42a6-9641-0e671f577803</Id>
+          <ActionType>Say</ActionType>
+          <Duration>0</Duration>
+          <Delay>0</Delay>
+          <KeyCodes />
+          <Context>and I love you back!</Context>
+          <X>65</X>
+          <Y>0</Y>
+          <InputMode>0</InputMode>
+          <ConditionPairing>0</ConditionPairing>
+          <ConditionGroup>0</ConditionGroup>
+          <ConditionStartOperator>0</ConditionStartOperator>
+          <ConditionStartValue>0</ConditionStartValue>
+          <ConditionStartValueType>0</ConditionStartValueType>
+          <IsSuffixAction>false</IsSuffixAction>
+        </CommandAction>
+      </ActionSequence>
+      <Async>true</Async>
+      <Enabled>true</Enabled>
+      <UseShortcut>false</UseShortcut>
+      <keyValue>0</keyValue>
+      <keyShift>0</keyShift>
+      <keyAlt>0</keyAlt>
+      <keyCtrl>0</keyCtrl>
+      <keyWin>0</keyWin>
+      <keyPassthru>true</keyPassthru>
+      <UseSpokenPhrase>true</UseSpokenPhrase>
+      <onlyKeyUp>false</onlyKeyUp>
+      <RepeatNumber>2</RepeatNumber>
+      <RepeatType>0</RepeatType>
+      <CommandType>0</CommandType>
+      <SourceProfile>00000000-0000-0000-0000-000000000000</SourceProfile>
+      <Referrer xsi:nil="true" />
+      <Confidence>0</Confidence>
+      <PrefixActionCount>0</PrefixActionCount>
+    </Command>
+    <Command>
+      <Id>0160b41e-c287-4fd1-930e-9f1f30ddfbae</Id>
+      <CommandString>this thing is awesome; this thing is cool; oh nice; this is so cool; this is cool</CommandString>
+      <ActionSequence>
+        <CommandAction>
+          <PairingSet>false</PairingSet>
+          <Ordinal>0</Ordinal>
+          <ConditionMet xsi:nil="true" />
+          <IndentLevel>0</IndentLevel>
+          <Id>92633dd1-3246-41ce-86ba-9c980d916509</Id>
+          <ActionType>Say</ActionType>
+          <Duration>0</Duration>
+          <Delay>0</Delay>
+          <KeyCodes />
+          <Context>oh thank you, thats very nice.</Context>
+          <X>65</X>
+          <Y>0</Y>
+          <InputMode>0</InputMode>
+          <ConditionPairing>0</ConditionPairing>
+          <ConditionGroup>0</ConditionGroup>
+          <ConditionStartOperator>0</ConditionStartOperator>
+          <ConditionStartValue>0</ConditionStartValue>
+          <ConditionStartValueType>0</ConditionStartValueType>
+          <IsSuffixAction>false</IsSuffixAction>
+        </CommandAction>
+      </ActionSequence>
+      <Async>true</Async>
+      <Enabled>true</Enabled>
+      <UseShortcut>false</UseShortcut>
+      <keyValue>0</keyValue>
+      <keyShift>0</keyShift>
+      <keyAlt>0</keyAlt>
+      <keyCtrl>0</keyCtrl>
+      <keyWin>0</keyWin>
+      <keyPassthru>true</keyPassthru>
+      <UseSpokenPhrase>true</UseSpokenPhrase>
+      <onlyKeyUp>false</onlyKeyUp>
+      <RepeatNumber>2</RepeatNumber>
+      <RepeatType>0</RepeatType>
+      <CommandType>0</CommandType>
+      <SourceProfile>00000000-0000-0000-0000-000000000000</SourceProfile>
+      <Referrer xsi:nil="true" />
+      <Confidence>0</Confidence>
+      <PrefixActionCount>0</PrefixActionCount>
+    </Command>
+    <Command>
+      <Id>7f5848c8-0fa8-4143-8b66-ea0f594444cb</Id>
       <CommandString>overload high</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -12,7 +237,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>3d9f0401-e247-4b4b-bddb-4310c678759d</Id>
+          <Id>0672bc90-b02c-4f4a-bc19-8576a833d585</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -35,7 +260,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>e31bcbfd-2dad-40d0-994c-4a79c1b5d92d</Id>
+          <Id>c0c44a59-abb2-4705-a7ee-7ae9f63d6189</Id>
           <ActionType>Say</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -74,7 +299,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>357f9d4f-72ad-41e8-8c6c-7db83b66ca5b</Id>
+      <Id>fe4df742-a075-4407-9c00-535de07d2c90</Id>
       <CommandString>overload low</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -82,7 +307,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>475b5bab-9249-4fe2-8432-e1e64ec2ecc5</Id>
+          <Id>6d9086b8-d6d0-4881-97c5-6446e748cf0c</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -105,7 +330,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>791c17e8-7fc1-492c-981d-afb0846de4f9</Id>
+          <Id>fc35d68f-99b2-4037-b7c9-a996d3f15179</Id>
           <ActionType>Say</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -144,7 +369,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>08d9809f-4e31-4b6c-ba10-46c0b40a9404</Id>
+      <Id>b6cc6b3b-9b9c-4013-9b99-8d48f1f5afa4</Id>
       <CommandString>overload medium</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -152,7 +377,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>e5f0959c-b931-4350-a47a-b1bcaa03507e</Id>
+          <Id>b5a7f3ac-3807-4332-af6b-eef36b167f58</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -175,7 +400,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>f8de117b-7f36-47bb-8aff-a9b032819701</Id>
+          <Id>fd2748fc-2d39-490c-b850-c39ed00cb4c2</Id>
           <ActionType>Say</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -214,7 +439,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>0e4d2077-6ca5-4d20-9338-d7d3bf0680e3</Id>
+      <Id>16f83a01-669f-42f8-86a7-6774d280e20d</Id>
       <CommandString>tactical; tactical overlay; tack overlay; tack</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -222,7 +447,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>3221873f-9c48-4a59-abe0-b86346a7da0d</Id>
+          <Id>49a210d4-f17c-48d6-abb7-fad277058052</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -245,7 +470,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>94e1c6cc-bb7e-4098-8cf1-2f4426e275b7</Id>
+          <Id>03fb036a-c0dd-423a-be5f-9776d7826e78</Id>
           <ActionType>Say</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -284,7 +509,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>29d6c793-5769-4935-bf75-8cbf80a5e5cc</Id>
+      <Id>297ac348-dfc9-4a44-925b-db37a406196f</Id>
       <CommandString>unlock; release; release target; drop; drop target</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -292,7 +517,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>20ef9ca7-8d77-4fab-827a-c5b940420f13</Id>
+          <Id>a98163e0-cdcb-4817-beb7-d85bf7e12804</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -315,7 +540,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>12cae9da-b238-48c0-abdd-2456c4607830</Id>
+          <Id>51aeaa95-745b-4d62-b78d-232b8dbc8aa0</Id>
           <ActionType>Say</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -354,7 +579,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>f30d26dd-6cec-4100-a262-925302300f9e</Id>
+      <Id>7684f569-0e61-41c1-893a-446376954d98</Id>
       <CommandString>drones engage; engage drones; attack; get him</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -362,7 +587,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>fc408532-bde0-46fb-9a63-4817c367e214</Id>
+          <Id>93d4e8d6-d2c6-4c1c-9bef-10da8e163c58</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -385,7 +610,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>df5bb308-18ae-4522-bcae-9722c846750a</Id>
+          <Id>5b146216-d6c2-4c5a-a351-42420aa5da4f</Id>
           <ActionType>Say</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -424,7 +649,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>27edc01d-3918-44f1-93af-6f175dba4854</Id>
+      <Id>cbc99b67-707a-421b-ac79-c2677a0afa9a</Id>
       <CommandString>recall drones; recall</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -432,7 +657,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>68cee2db-2fb4-4628-80f5-67b05a9342cb</Id>
+          <Id>143724c0-af43-4c1e-9238-2f6df5454092</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -455,7 +680,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>e59a38ef-e58f-46d1-bc49-1f9ec804eefe</Id>
+          <Id>08ff66fd-7084-4c36-af5d-e243d14c8954</Id>
           <ActionType>Say</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -494,7 +719,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>5851a9bb-e903-4221-b4b4-efed9e62c238</Id>
+      <Id>08a83691-a506-4038-8fc1-c7ca3caa226e</Id>
       <CommandString>call target, got him; broadcast target; traget found; fleet target; get this guy; calling target; target called; target set</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -502,7 +727,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>3eaa6e97-b63e-4788-99d3-e7ea383a7d61</Id>
+          <Id>eee6c94b-3d72-42bb-a66e-97f8f7ee78dd</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -524,7 +749,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>da1aee4a-b9c9-4423-a9ca-72e44949f5da</Id>
+          <Id>4e0c7163-665f-4215-b359-13a31c698cd9</Id>
           <ActionType>Say</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -563,7 +788,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>ab235842-f328-4298-9a54-7ea35dc103f2</Id>
+      <Id>83e40eea-253d-496f-b7db-01a2cf39f260</Id>
       <CommandString>target spotted; target located; target found; eyes on target; eyes; here he is</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -571,7 +796,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>9539821c-9a6d-4df6-9686-576dfc868558</Id>
+          <Id>f5f4a0a0-96bc-4f30-9393-53653dffe489</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -593,7 +818,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>34e08f36-c8c2-452a-ad66-e1c23d6e5237</Id>
+          <Id>7ff14fe2-0233-459d-be8b-1bff516c1b88</Id>
           <ActionType>Say</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -632,7 +857,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>a9bcae4d-eb97-4eb9-8b8c-df30a8661374</Id>
+      <Id>b469226b-e827-4725-b724-ae7993d371af</Id>
       <CommandString>Accelerate; faster; go faster; vamanos; giddy up; speed up; throttle up</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -640,7 +865,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>3720af5c-3de0-4b6a-b95d-55f6499a51f7</Id>
+          <Id>97105d8c-ab39-4968-8013-89abad95c457</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -680,7 +905,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>2a759a11-5934-45b7-a133-418373d9f34d</Id>
+      <Id>d3a22d8e-dc2a-444e-9e63-2e88b881a2fe</Id>
       <CommandString>align; align to; prepair for warp</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -688,7 +913,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>e33fb712-3da2-43a3-bce2-3376b3186ca2</Id>
+          <Id>fce991f2-c1dd-42db-bf42-bc53601f91c8</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -710,7 +935,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>371804f2-b6bc-4ff4-97c3-ca7f9f4c1d87</Id>
+          <Id>e8c4fde0-8b1d-4c0d-ad92-8c43f48f3daf</Id>
           <ActionType>Say</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -749,7 +974,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>7f2e76a2-7375-48d0-b082-2b4203f333dd</Id>
+      <Id>857dd7d5-1026-4463-b659-0297924cee25</Id>
       <CommandString>Approach; move in; closer; get closer</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -757,7 +982,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>dc8bfea9-4360-42a7-9b48-b02521046cd7</Id>
+          <Id>f34eea0b-f511-4323-b0e7-6b6d669db3fd</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -779,7 +1004,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>7338ee02-6309-4b4f-b5dc-6642cd8bd95e</Id>
+          <Id>de89152a-ebcb-4bc7-83ef-9009bbdc0bb8</Id>
           <ActionType>Say</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -818,7 +1043,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>3054896d-df71-4886-a086-f4717029339e</Id>
+      <Id>689951b1-17c0-4d00-bb1d-415d6fe9404d</Id>
       <CommandString>Auto pilot engage, engage auto pilot; auto pilot; engage A P; A P</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -826,7 +1051,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>a42c8556-4142-470c-8e9e-993182d575a7</Id>
+          <Id>947ded61-2b23-4dbc-b090-c5fb0300a886</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -849,7 +1074,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>eac5b960-6a6c-45c5-ae67-8493ec18488f</Id>
+          <Id>426e7595-a95c-4057-9752-289de14c85a1</Id>
           <ActionType>Say</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -888,7 +1113,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>7236d604-d2f4-48b9-aae2-6ff04a2fa1f0</Id>
+      <Id>42f6debb-a324-43f1-beda-4deca3e0ca01</Id>
       <CommandString>decelerate; slow down; slower; reduce speed</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -896,7 +1121,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>1e501060-ec86-43e4-ac14-0b32b7390043</Id>
+          <Id>399c4c6d-a436-4d2b-b436-6465b256b37a</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -936,7 +1161,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>feb03a18-dc62-4592-812f-00436bdbf0d9</Id>
+      <Id>9f46351d-248d-4b9d-8e9e-79a9c8fb4856</Id>
       <CommandString>dock; jump; activate</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -944,7 +1169,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>f92d9e5d-a753-4710-8554-aba3f15b5cc8</Id>
+          <Id>c75cc794-a6cc-4318-94e4-36fc3eb7fb1c</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -966,7 +1191,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>7347efa0-2cbb-47ab-a48e-01d691ae723a</Id>
+          <Id>5aa3b66c-d59d-45c7-8474-23740f8513ed</Id>
           <ActionType>Say</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -1005,7 +1230,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>0c8a5362-7ac0-408a-9c34-f635dd5bcee7</Id>
+      <Id>031f618d-8ba0-4a60-80aa-cd3226eefc86</Id>
       <CommandString>engage warp; make it so; warp; warp to</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -1013,7 +1238,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>069b2a08-c02d-48ab-bb8e-4c7ba4dd1c11</Id>
+          <Id>3e9bc1ab-a76a-4030-b23c-46f02203f7f3</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -1035,7 +1260,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>0c9cc34b-f990-4a6b-a337-8b99c039c8af</Id>
+          <Id>08b4bd44-bb9f-484b-8fa1-b02343c4b7c4</Id>
           <ActionType>Say</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -1074,7 +1299,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>9c482a09-31b7-4e62-9c1a-d5d0d650a86c</Id>
+      <Id>55f7e078-3bbe-4c8d-9593-1396cf24cf1e</Id>
       <CommandString>Full speed; all ahead full; go; hundred percent; enigines full; let's go</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -1082,7 +1307,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>5fc142c4-0578-44d9-998c-30d8f758f337</Id>
+          <Id>f8ea55d6-cf96-45a4-a458-ebff723c8965</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -1106,7 +1331,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>54242364-2f51-4e5c-9ae1-eb2e70139246</Id>
+          <Id>f1b69752-9c1a-49da-979e-ea188bbe9cac</Id>
           <ActionType>Say</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -1145,7 +1370,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>52e44757-b226-4b03-ab27-269313cd81a5</Id>
+      <Id>1466c8db-d38e-4bc4-ac0c-1f260107902a</Id>
       <CommandString>Keep at range</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -1153,7 +1378,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>04080c5b-c068-4f27-b3d0-93235303321c</Id>
+          <Id>0d47ad8b-f88f-4ae6-86a8-dc810a82cda4</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -1175,7 +1400,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>89d60ea2-74ca-41b7-8426-700fafa656aa</Id>
+          <Id>5103dcdf-8909-4dc9-9f5f-dd7148e6171d</Id>
           <ActionType>Say</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -1214,7 +1439,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>d29ad739-0540-4170-ac0f-59c9e4207805</Id>
+      <Id>c3b2d148-8643-4b74-aa47-bb44956f3c1a</Id>
       <CommandString>orbit</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -1222,7 +1447,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>6eef339e-2d1e-4cf0-8925-2a3ed018b411</Id>
+          <Id>b456af6a-6431-4d88-9ecf-5ae36c9ea501</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -1244,7 +1469,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>3a75bdaa-1d22-46e4-9456-74be45781799</Id>
+          <Id>c82df030-9f45-4953-b583-c519aae2843e</Id>
           <ActionType>Say</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -1283,7 +1508,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>d4e2f646-c80f-4f79-9f24-14349f5a02f6</Id>
+      <Id>5f624c75-c18e-45d1-a6d1-5169434580fd</Id>
       <CommandString>Stop Ship; all stop; stop</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -1291,7 +1516,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>ca110207-e3f3-44de-afed-074a52395b14</Id>
+          <Id>f5661f73-1bd1-414f-988c-33d4bd15ea9e</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -1314,7 +1539,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>5d64a8d8-c7a0-45f3-9a8a-03332257592c</Id>
+          <Id>ca94fa9a-05a7-445f-81a9-2775d3f9ca2a</Id>
           <ActionType>Say</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -1353,7 +1578,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>1884b4be-a165-47c8-9041-d17ea5ae93d1</Id>
+      <Id>e0eb29dc-6f2a-415e-9d86-e871c434053c</Id>
       <CommandString>undock; exit; exit station</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -1361,7 +1586,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>674ab1c8-71c8-4433-bdb2-d01ef7088505</Id>
+          <Id>6dc7266e-2732-4c62-910c-219fa2890d6f</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -1383,7 +1608,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>f98dd6f0-7430-42b0-885e-e0226a02e838</Id>
+          <Id>1039bbfc-ebf7-4bdc-b52e-a89c17fdade9</Id>
           <ActionType>Say</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -1422,7 +1647,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>07fee2ef-63b9-4d36-8cb2-7f760ed2963f</Id>
+      <Id>3aa6433e-da2a-412c-9c07-7b2de1faad68</Id>
       <CommandString>assets; show assets</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -1430,7 +1655,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>2857b41a-2074-4dc6-afc5-2f21f2d44b8c</Id>
+          <Id>3a68609c-072e-4bd8-8893-80089492ad15</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -1453,7 +1678,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>9005c92e-e9af-4b5e-bba3-c3a842677c42</Id>
+          <Id>bd6e1ba4-ebb1-41ef-95b8-2d5983ceb3e5</Id>
           <ActionType>Say</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -1492,7 +1717,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>fa1e5cb7-6f7b-4cc6-aec7-71d295386ac4</Id>
+      <Id>10addb1a-396b-4c02-a6f3-862197ef8618</Id>
       <CommandString>info; show info</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -1500,7 +1725,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>405a8725-dd06-424f-bce4-da238867928a</Id>
+          <Id>7c1619ae-fc0d-4afd-a799-4580acb8904a</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -1540,7 +1765,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>c0e302fa-374c-4feb-aaf4-3060daef1536</Id>
+      <Id>f8fdb612-ff8b-4940-86aa-6f1d0e76b2bf</Id>
       <CommandString>map; show map</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -1548,7 +1773,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>fa205586-b197-451d-9d68-50f1168d03b0</Id>
+          <Id>aa6b571c-6d36-42e8-a7d8-e4c055e0f0de</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -1588,7 +1813,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>3c3d3d27-c9f1-4171-a4e7-a2d91fc169f3</Id>
+      <Id>1610256f-c83d-48d7-8318-359f143ea063</Id>
       <CommandString>Sensors; sensor overlay</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -1596,7 +1821,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>8924c637-dffc-4bbc-a669-1a736c10c182</Id>
+          <Id>dbf33422-63f5-408c-b011-4d11e99c1dae</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -1619,7 +1844,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>16339463-5982-4971-8228-2a8859a9038e</Id>
+          <Id>2e4f0601-10d1-478d-b4d4-90a405fe50f1</Id>
           <ActionType>Say</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -1658,7 +1883,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>e3dd7658-df61-4da6-9460-150f67772b95</Id>
+      <Id>63316768-77ca-41e6-8412-a082231fa8f2</Id>
       <CommandString>show fit; fitting window; fit; load out; rig</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -1666,7 +1891,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>04b249ce-abd3-45fa-aea3-3395c61f203b</Id>
+          <Id>bf66a0d8-b867-4ec6-b13e-8e7b23d69282</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -1707,7 +1932,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>88ca50c5-3ca1-4bb7-b407-19f940a0bb48</Id>
+      <Id>ccae7e71-edb2-4d73-aa45-572491a1a660</Id>
       <CommandString>voice off; no voice; stop listening</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -1715,7 +1940,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>07b53a45-9779-437f-985a-fc3832efe92e</Id>
+          <Id>36631959-aba5-45c0-b0e1-cd8b2fcc4a66</Id>
           <ActionType>Say</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -1736,7 +1961,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>dca0c849-bf6d-461f-923d-e31d0b93077e</Id>
+          <Id>81c95138-9ba1-477b-8d99-60b593db27b8</Id>
           <ActionType>InternalProcess_StopListening</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -1776,7 +2001,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>9d85673a-0210-492a-b6e6-107c3c545012</Id>
+      <Id>d60e743c-58fc-41b9-b355-d0fa3570127e</Id>
       <CommandString>voice; voice on; start listening; first mate</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -1784,7 +2009,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>681021c0-d9ac-4e66-936d-c983395beb02</Id>
+          <Id>200c2093-0d42-4d2b-be00-27cc0697a24c</Id>
           <ActionType>Say</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -1805,7 +2030,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>e62c1e69-16d8-4047-b4d9-5afb8df52fe6</Id>
+          <Id>62f7270d-227c-4e39-a2a2-e4d5f7bc82b4</Id>
           <ActionType>InternalProcess_StartListening</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -1844,7 +2069,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>2d7828e6-5484-43c0-bae2-82181eb34a06</Id>
+      <Id>00140f05-c27a-4379-bdba-7672faa8a02b</Id>
       <CommandString>item hangar; items; hangar; modules </CommandString>
       <ActionSequence>
         <CommandAction>
@@ -1852,7 +2077,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>0020fc61-bf40-4b07-b31d-f36e90765826</Id>
+          <Id>751eeaf8-649d-42c3-979c-388014d6e802</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -1893,7 +2118,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>f918537c-90b1-4053-9beb-dd2c83a1ce96</Id>
+      <Id>bcbc8c32-6c54-4c23-9d25-dc5d9037afed</Id>
       <CommandString>reload; reload ammo</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -1901,7 +2126,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>62585384-71ff-4e8a-aed8-a2a18a59bfab</Id>
+          <Id>f3739ca6-49da-4e5f-a8ba-c18d5503c540</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -1924,7 +2149,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>720aa3eb-9d8f-44bd-895a-a8201228bc5a</Id>
+          <Id>52b78a06-4000-4050-b4f5-9e2f78b9c87a</Id>
           <ActionType>Say</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -1963,7 +2188,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>42d48aa2-6926-4754-a426-ab75886c77f7</Id>
+      <Id>0292b73c-257d-4f26-8266-50833dd55c29</Id>
       <CommandString>cargo; my cargo, show cargo; open cargo</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -1971,7 +2196,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>920b3f84-58ec-4852-8479-c8438b3c4044</Id>
+          <Id>250f04a1-a177-4118-b836-a6ee52af14db</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -2011,7 +2236,7 @@
       <PrefixActionCount>0</PrefixActionCount>
     </Command>
     <Command>
-      <Id>30294961-8568-483b-abd2-471819705b8d</Id>
+      <Id>8eeb6247-aacb-4abf-9bc8-e72158b405bb</Id>
       <CommandString>Scanner</CommandString>
       <ActionSequence>
         <CommandAction>
@@ -2019,7 +2244,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>94def76f-1573-49da-9ef9-49508811defe</Id>
+          <Id>29d4a0ef-9b70-4176-bff1-a7f8ab38765a</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.1</Duration>
           <Delay>0</Delay>
@@ -2042,7 +2267,7 @@
           <Ordinal>0</Ordinal>
           <ConditionMet xsi:nil="true" />
           <IndentLevel>0</IndentLevel>
-          <Id>72855821-177b-4445-81b7-865f5dc11e73</Id>
+          <Id>70badfb0-e14b-4bcb-9899-4451d1d55717</Id>
           <ActionType>Say</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
